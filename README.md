@@ -9,4 +9,4 @@ I’m a front end developer that loves coding world. I currently work as freelan
 - Paid news blog about the ReactJs world -- https://iggnews.netlify.app/ <br />
 - Dashboard for simple financial control -- https://dashfin.netlify.app/ <br />
 - Green restaurant site -- https://greentastyrestaurant.netlify.app/ <br />
-- https://spacetravelingblog.netlify.app/ <br />
+- Blog SpaceTraveling -- https://spacetravelingblog.netlify.app/ <br />
